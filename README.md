@@ -1,4 +1,4 @@
-# CybersecurityStrategy-
+# Risk-and-Respawn-
 
 Throughout my career, I’ve observed that the most versatile, valuable, and vulnerable element in any project is the human factor. And it’s precisely because of this vulnerability that access governance becomes increasingly ambiguous the further a team is from direct collaboration — opening the door for operational mistakes to quietly evolve into serious security risks.
 
